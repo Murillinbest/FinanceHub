@@ -84,13 +84,3 @@ Cloudflare Pages
 
 O foco deste projeto foi criar uma base sólida utilizando tecnologias modernas, com atenção à organização do código, componentização e boas práticas.
 A intenção é expandir recursos ao longo do tempo e utilizá-lo como base para futuras aplicações.
-
-Se quiser, posso adicionar:
-
-* Badges (React, TypeScript, Vite, etc.)
-* Prints da interface
-* Roadmap do projeto
-* Licença personalizada
-* Uma seção “Autor” com seu nome e redes
-
-É só me pedir!
