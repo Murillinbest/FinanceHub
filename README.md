@@ -1,4 +1,8 @@
 # FinanceHub
+
+![Uploading IMG-WEBsite....png…]()
+
+
 # Project Overview
 
 Este projeto foi desenvolvido utilizando uma stack moderna com foco em performance, escalabilidade e facilidade de manutenção. A aplicação foi construída com React, TypeScript, Vite e Tailwind CSS, além da utilização de componentes do shadcn-ui para garantir consistência visual e produtividade durante o desenvolvimento.
