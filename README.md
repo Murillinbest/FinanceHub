@@ -1,6 +1,7 @@
 # FinanceHub
 
-<img width="1895" height="1017" alt="IMG-WEBsite" src="https://github.com/user-attachments/assets/b1c55ab9-f93d-4685-aa1e-b46d0bbc8a57" />
+<img width="1896" height="1014" alt="IMG-WEBsite" src="https://github.com/user-attachments/assets/73d2d30b-9cd7-4edb-afa5-32350c666c2a" />
+
 
 
 
