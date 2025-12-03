@@ -1,6 +1,7 @@
 # FinanceHub
 
-![Uploading IMG-WEBsite....png…]()
+<img width="1895" height="1017" alt="IMG-WEBsite" src="https://github.com/user-attachments/assets/b1c55ab9-f93d-4685-aa1e-b46d0bbc8a57" />
+
 
 
 # Project Overview
