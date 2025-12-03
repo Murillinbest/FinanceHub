@@ -54,6 +54,10 @@ npm install
 npm run dev
 
 
+<img width="1891" height="1011" alt="IMG-interna" src="https://github.com/user-attachments/assets/9718f5c7-a316-474e-8d1c-596a0f070d08" />
+
+
+
 Após isso, basta abrir o endereço exibido pelo terminal no navegador.
 
 # Build para Produção
